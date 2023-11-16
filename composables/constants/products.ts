@@ -43,5 +43,32 @@ export const products = [
       image: "/images/products/baju-5.png",
       isCart: false,
       description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
+    },
+    {
+      id: 6,
+      name: "Baju pria ala ala korea ",
+      category: "Baju",
+      price: 50,
+      image: "/images/products/baju-6.png",
+      isCart: false,
+      description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
+    },
+    {
+      id: 7,
+      name: "Celana Slimfit",
+      category: "Celana",
+      price: 25,
+      image: "/images/products/celana-4.png",
+      isCart: false,
+      description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
+    },
+    {
+      id: 8,
+      name: "Jam Tangan Danil Wlington",
+      category: "Jam",
+      price: 70,
+      image: "/images/products/jam-1.png",
+      isCart: false,
+      description: "White Casual Short Sleeve Cotton Plain Top Embellished Non-Stretch Summer Men Tops",
     }
   ];
